@@ -36,9 +36,9 @@
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://bit.ly/3JfaNBq",
-      "update_msg" : "",
+      "update_msg" : "warning",
       "update_state" : true,
-      "update_title" : "warning please like and comment"
+      "update_title" : " please update "
     },
     "app" : {
       "mode_off_version" : "0"
