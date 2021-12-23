@@ -35,10 +35,10 @@
     },
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "https://bit.ly/3ElKaqy",
+      "update_action" : "https://bit.ly/3JfaNBq",
       "update_msg" : "",
       "update_state" : true,
-      "update_title" : "warning please update the app by clicking here"
+      "update_title" : "warning please like and comment"
     },
     "app" : {
       "mode_off_version" : "0"
