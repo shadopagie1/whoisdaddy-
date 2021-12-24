@@ -35,7 +35,7 @@
     },
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "https://bit.ly/3JfaNBq",
+      "update_action" : "https://bit.ly/3ElKaqy",
       "update_msg" : " please update",
       "update_state" : true,
       "update_title" : "warning "
