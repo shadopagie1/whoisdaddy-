@@ -13,7 +13,7 @@
       "admob_unit_id" : ""
     },
     "appodeal" : {
-      "appodeal_app_key" : ""
+      "appodeal_app_key" : "e2f69add8490dbf0e4244fe5affd2f73d9d55d9e0b7d73e1"
     },
     "facebook" : {
       "facebook_banner_id" : "IMG_16_9_APP_INSTALL#",
@@ -22,7 +22,7 @@
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
     "mode_ads_banner" : "0",
-    "mode_ads_interstitial" : "0",
+    "mode_ads_interstitial" : "true",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "0",
@@ -37,7 +37,7 @@
       "enable_update_closed" : false,
       "update_action" : "https://bit.ly/3ElKaqy",
       "update_msg" : " please update",
-      "update_state" : true,
+      "update_state" : false,
       "update_title" : "warning "
     },
     "app" : {
