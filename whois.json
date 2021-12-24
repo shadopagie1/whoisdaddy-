@@ -34,10 +34,10 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : false,
+      "enable_update_closed" : true,
       "update_action" : "https://bit.ly/3ElKaqy",
-      "update_msg" : " please update",
-      "update_state" : false,
+      "update_msg" : " please update ",
+      "update_state" : true,
       "update_title" : "warning "
     },
     "app" : {
