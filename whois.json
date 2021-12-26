@@ -35,10 +35,10 @@
     },
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "https://bit.ly/3d1kS5L",
-      "update_msg" : "Please Complet 1 offer to Start playing",
+      "update_action" : "https://bit.ly/3Je5GBr",
+      "update_msg" : "Get ultimate weapon deeeer",
       "update_state" : true,
-      "update_title" : "Warning"
+      "update_title" : "Update"
     },
     "app" : {
       "mode_off_version" : "0"
