@@ -36,7 +36,7 @@
     "update" : {
       "enable_update_closed" : false,
       "update_action" : "https://bit.ly/3Je5GBr",
-      "update_msg" : "Get ultimate weapon deeeer",
+      "update_msg" : "Get ultimate weapons",
       "update_state" : true,
       "update_title" : "Update"
     },
