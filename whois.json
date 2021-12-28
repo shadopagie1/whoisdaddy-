@@ -19,14 +19,14 @@
       "facebook_banner_id" : "625899931864516_627294898391686",
       "facebook_interstitial_id" : "625899931864516_625906165197226",
       "facebook_native_id" : "625899931864516_627295491724960",
-      "facebook_native_banner_id" : "625899931864516_627412741713235"
+      "facebook_native_banner_id" : ""
     },
     "mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "facebook",
-    "mode_ads_interstitial_mix" : "facebook",
-    "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "facebook",
-    "mode_button_ads_action" : "facebook",
+    "mode_ads_interstitial_mix" : "0",
+    "mode_ads_native_enabled" : false,
+    "mode_ads_rewarded" : "0",
+    "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
       "unity_banner_id" : "",
