@@ -1,0 +1,105 @@
+{
+  "config" : {
+    "adcolony" : {
+      "adcolony_app_id" : "",
+      "adcolony_interstitial_id" : "",
+      "adcolony_rewarded_id" : ""
+    },
+    "admob" : {
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : "",
+      "admob_unit_id" : ""
+    },
+    "appodeal" : {
+      "appodeal_app_key" : ""
+    },
+    "facebook" : {
+      "facebook_banner_id" : "",
+      "facebook_interstitial_id" : "",
+      "facebook_native_id" : "",
+      "facebook_native_banner_id" : ""
+    },
+    "mode_ads_banner" : "appodeal",
+    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_interstitial_mix" : "appodeal",
+    "mode_ads_native_enabled" : true,
+    "mode_ads_rewarded" : "appodeal",
+    "mode_button_ads_action" : "0",
+    "unity" : {
+      "unity_app_id" : "",
+      "unity_banner_id" : "",
+      "unity_interstitial_id" : "",
+      "unity_rewarded_id" : ""
+    },
+    "update" : {
+      "enable_update_closed" : false,
+      "update_action" : "",
+      "update_msg" : "",
+      "update_state" : true,
+      "update_title" : ""
+    },
+    "app" : {
+      "mode_off_version" : "0"
+    }
+  },
+  "posts" : [
+    {
+      "id" : 0,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "free",
+      "title" : "YACINE TV",
+      "description" : "Yacine TV is a great Read More...",
+      "written" : "<p>YACINE TV &nbsp;GUIDE</p><p><br></p><p>Yacine TV is a great entertainment android</p><p>app. In this application, you can enjoy different</p><p>French and Arabic TV channels on your mobile.</p><p>This Yacine TV app is free and no registration is</p><p>required to use it. You can enjoy many more TV</p><p>channels including entertainment channels,</p><p>news channels, cartoon channels, sports</p><p>channels. Especially if you want to watch</p><p>football matches on this Yacine TV, you will find</p><p>lots of channels that are not available anywhere</p><p>else. The categorized channels are very nicely</p><p>arranged here so that you can easily find the</p><p>channel of your choice.</p>"
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "free",
+      "title" : "أحصل على سيرفر بين سبورت مجاناً",
+      "description" : "...أحصل على سيرفر بين سبورت مجاناً إقرأ المزيد",
+      "written" : "<p>عرض جديد مع بين سبورت للحصول على</p><p>&nbsp;سيرفر وجهاز رسيفر بين سبورت</p><p>ماعليك سوى الدخول إلى</p><p>&nbsp;موقع أسفله وإشتراك في العرض </p><p>https://www.erba7.site</p><p>ملاحظة مهمة</p><p>&nbsp;قم بإدخال معلوماتك الشخصية بدون أخطاء</p>"
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "free",
+      "title" : "ABOUT YACINE TV",
+      "description" : "Yacine TV app is an Read More...",
+      "written" : "<p>About Yacine TV&nbsp;</p><p><br></p><p>Yacine TV app is an Arabic application that lets</p><p>people watch live TV on their mobile devices.</p><p>These include Bine Entertainment, France</p><p>Channel, Sports, MBC and other interesting</p><p>channels. In contrast, the Yacine TV application</p><p>does not require any third party player</p><p>installation. Another surprise is that the app is</p><p>easy to use. You can use this Sports Live app on</p><p>your Android, iOS and PC.</p>"
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "free",
+      "title" : "DOWNLOAD YACINE TV APP",
+      "description" : "Entertainment is a Read More...",
+      "written" : "<p>Download the Yacine TV App</p><p><br></p><p>Entertainment is a great source of free time or</p><p>when you are bored during the day. We can&apos;t</p><p>deny that we all like to watch stuff like movies,</p><p>series and the like. Nowadays, technology is</p><p>really advanced so now you don&apos;t have to sit in</p><p>front of the TV in front of you to watch your</p><p>favorite movie or something like that. Yacine is</p><p>one of the TV apps. This is a very good way to</p><p>watch any live match streaming.</p><p><br></p><p>However, the Yacine TV app is primarily for Arab</p><p>and French users. But you can watch the match</p><p>live by English users if you want. There is an</p><p>option for English users. So, don&apos;t worry about</p><p>this. Download these Yacine TV apps very fast</p><p>and enjoy all TV show sports live streaming.</p>"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "free",
+      "title" : "DOWNLOAD YACINE TV APP Live",
+      "description" : "Download Yacine TV Live Read More...",
+      "written" : "<p>Download Yacine TV Live</p><p>Football&nbsp;</p><p><br></p><p>Here we provide Yacine TV 2021 Live Football</p><p>TV HD Tips for Android 4.2+ and above. Yacine</p><p>TV 2021 Live Football TV HD Tips appis listed in</p><p>the Sports section of the store. This is the latest</p><p>and greatest version of Yacine TV 2021 Live</p><p>Football TV HD. It&apos;s easy to download and install</p><p>on your mobile phone. You can watch Copa</p><p>America Football Match 2021, UEFA Euro Cup</p><p>2020 Match and other football matches very</p><p>well through this app.</p><p><br></p><p>Yacine TV Live Broadcast is a sports application</p><p>that specializes in broadcasting local and</p><p>international football matches and writes about</p><p>all football news. Football and Alber team</p><p>Yacine TV Football 2021 Real Madrid Football</p><p>Club Barcelona match the photos for the</p><p>summary for the live TV exclusive channel. If for</p><p>any reason you want to access Yacine TV 2021</p><p>Live Football TV Full HD using VPN. These are</p><p>the top VPN services and have been used and</p><p>used by millions of users worldwide.</p>"
+    },
+    {
+      "id" : 5,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "free",
+      "title" : "YACINE TV SPORTS LIVE",
+      "description" : "Yacine TV Sports Live Read More...",
+      "written" : "<p>Yacine TV Sports Live 2021</p><p><br></p><p>Yacine TV Live Sport 2021 app broadcast keeps</p><p>you up to date with live football, live soccer</p><p>scores, match details, latest football news,</p><p>league dates and everything in between Yacine</p><p>TV lets you access every aspect of the real</p><p>football world with your smartphone.</p><p><br></p><p>Are you looking for the app Yacine TV Live Sport</p><p>2021 Broadcast that lets you follow the latest</p><p>football news, live scores, matches and live</p><p>football? Great! | think the Yacine TV appis</p><p>perfect for all time. The Live Soccer app covers</p><p>top soccer leagues and provides live soccer</p><p>statistics, live commentary, goals and real-time</p><p>news.</p>"
+    },
+    {
+      "id" : 6,
+      "imageURL" : "https://agourram98.github.io/yacine2/cover.png",
+      "state" : "vip",
+      "title" : "KEY FEATURES",
+      "description" : "Key Features of Yacine Read More...",
+      "written" : "<p>Key Features of Yacine TV Apk</p><p><br></p><p>Easy to use</p><p><br></p><p>Simply play.</p><p><br></p><p>Easy to install</p><p><br></p><p>Easily available</p><p><br></p><p>This application is absolutely free No ads</p><p>This application will not harm you</p><p><br></p><p>It is 100% safe</p><p><br></p><p>This application runs faster than other</p><p>applications.</p><p><br></p><p>You will be very satisfied with this</p><p>application.</p>"
+    }
+  ]
+}
